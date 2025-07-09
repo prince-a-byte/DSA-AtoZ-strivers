@@ -10,9 +10,15 @@
 
 <h5>Concepts</h5>
 
-<p>Arrays are used to store multiple values of same data type in a single variable.
+<p>Array is a data structure that store a collection of same type of data. Arrays are contiguous blocks of memory where each element is of same size. Each element in array is access by its index. Index starts from 0 and goes up to n-1.</p>
 
-<h5>Code</h5>
+<h5>To Define a array we use:-</h5>
+
+```cpp
+int num[6] = {1,2,3,4,5,6}
+```
+
+<h5>Code Example</h5>
 
 ```cpp
 #include <iostream>
@@ -20,6 +26,9 @@ using namespace std;
 
 int main() {
     int arr[5] = {1, 2, 3, 4, 5};
+
+    //Using the For Loop to print the array
+
     for(int i = 0; i < 5; i++) {
         cout << arr[i] << " ";
     }
