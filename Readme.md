@@ -15,7 +15,7 @@
 <h5>To Define a array we use:-</h5>
 
 ```cpp
-int num[6] = {1,2,3,4,5,6}
+int num[6] = {1,2,3,4,5,6};
 ```
 
 <h5>Code Example</h5>
