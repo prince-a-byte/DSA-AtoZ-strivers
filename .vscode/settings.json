@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "functional": "cpp",
+        "limits": "cpp"
+    }
+}
