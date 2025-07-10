@@ -10,6 +10,9 @@
         "array": "cpp",
         "initializer_list": "cpp",
         "functional": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "bitset": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp"
     }
 }
